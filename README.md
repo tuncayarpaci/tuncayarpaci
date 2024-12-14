@@ -1,3 +1,3 @@
 "# tuncayarpaci" 
 İlk Kodum
-Sesten yazıya dönüştürme
+Sesten yazıya dönüştürme kodudur
